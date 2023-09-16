@@ -4,6 +4,7 @@
 - 🌱 Estudando Python, Java, HTML, CSS
 - 📫 Contato via thiago-pina@outlook.com
 
+
 <div>
   <a href="https://github.com/pinoxpbl">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pinoxpbl&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
