@@ -3,7 +3,6 @@
 - 🔭 Trabalhando como Analista de suporte
 - 🌱 Estudando Python, Java, HTML, CSS
 - 📫 Contato via thiago-pina@outlook.com
-- 😄 Pronouns: Ele/Dele
 
 <div>
   <a href="https://github.com/pinoxpbl">
