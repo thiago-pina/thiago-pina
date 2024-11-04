@@ -6,9 +6,9 @@
 
 
 <div>
-  <a href="https://github.com/pinoxpbl">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pinoxpbl&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pinoxpbl&layout=compact&langs_count=16&theme=dracula"/>  
+  <a href="https://github.com/thiago-pina">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thiago-pina&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiago-pina&layout=compact&langs_count=16&theme=dracula"/>  
 </div>
 
 <div style="display: inline_block"><br>
@@ -23,6 +23,6 @@
 ##
 
 <div>
-  <a href="https://www.instagram.com/pinoxthiago/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/thiago.pina14/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
 
