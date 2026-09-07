@@ -1,25 +1,30 @@
-### Olá sou o Thiago Pina sejá bem vindo! 😜👾🎮⚙️📱💻
+# Olá, eu sou o Thiago Pina! Seja bem-vindo ao meu perfil. 🚀
 
-<div>
-  <a href="https://github.com/thiago-pina">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thiago-pina&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiago-pina&layout=compact&langs_count=16&theme=dracula"/>  
+Analista de TI focado em extrair inteligência de dados, automação e garantir a segurança das operações corporativas. Atualmente, estou cursando pós-graduação em **Ciência de Dados e Inteligência Artificial** e sou pós-graduado em **Cibersegurança**.
+
+---
+
+### 🛠️ Tecnologias e Ferramentas
+
+<div id="badges">
+  <img src="https://shields.io" alt="Python Badge"/>
+  <img src="https://shields.io" alt="SQL Badge"/>
+  <img src="https://shields.io" alt="Git Badge"/>
+  <img src="https://shields.io" alt="Linux Badge"/>
 </div>
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Thiago-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Thiago-Django" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg">
-  <img align="center" alt="Thiago-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Thiago-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Thiago-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Thiago-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">         
-<div>
+---
 
-##
+### 📈 Meu Projeto de Destaque
 
-<div>
-  <a href="https://www.instagram.com/thiago.pina14/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/thiagopina-dev/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="mailto:thiago-pina@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
+* **[Inteligência Artificial e Analytics em Operações de TI (ServiceNow ITSM)](https://github.com):** Tratamento, engenharia de recursos e análise exploratória de um Big Data com mais de **59.000 incidentes operacionais** utilizando Python (Pandas e Seaborn). Desenvolvimento e treinamento de um modelo preditivo de Machine Learning (Scikit-Learn) focado no Processamento de Linguagem Natural (NLP) para classificação de prioridades, atingindo **74.16% de precisão**.
+
+---
+
+### 🌐 Conecte-se comigo
+
+<div id="socials">
+  <a href="https://linkedin.com" target="_blank">
+    <img src="https://shields.io" alt="LinkedIn Badge"/>
+  </a>
 </div>
-
