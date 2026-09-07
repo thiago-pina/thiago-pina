@@ -16,9 +16,9 @@
 
 <div align="center">
 
-<a href="https://www.instagram.com/thiago.pina14/"><img src="https://img.shields.io/badge/Instagram-00FF66?style=for-the-badge&logo=" width="185" alt="Instagram"></a>&nbsp;&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/thiagopina-dev/"><img src="https://img.shields.io/badge/LinkedIn-00FF66?style=for-the-badge&logo=" width="165" alt="LinkedIn"></a>&nbsp;&nbsp;&nbsp;
-<a href="mailto:thiago-pina@outlook.com"><img src="https://img.shields.io/badge/Outlook-00FF66?style=for-the-badge&logo=" width="155" alt="Outlook"></a>
+<a href="https://www.instagram.com/thiago.pina14/"><img src="https://img.shields.io/badge/Instagram-00FF66?style=for-the-badge" width="185" alt="Instagram"></a>&nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/thiagopina-dev/"><img src="https://img.shields.io/badge/LinkedIn-00FF66?style=for-the-badge" width="165" alt="LinkedIn"></a>&nbsp;&nbsp;&nbsp;
+<a href="mailto:thiago-pina@outlook.com"><img src="https://img.shields.io/badge/Outlook-00FF66?style=for-the-badge" width="155" alt="Outlook"></a>
 
 </div>
 
