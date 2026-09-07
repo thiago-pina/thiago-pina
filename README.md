@@ -1,7 +1,7 @@
 <div align="center">
-  
-  <!-- CABEÇALHO ESTILO TERMINAL RETRÔ -->
-  <img src="https://vercel.app" alt="Terminal Header" />
+
+  <!-- TELA PRINCIPAL DO TERMINAL DINÂMICO -->
+  <img src="https://vercel.app" alt="Terminal System Info" width="100%" />
 
   <p align="center">
     <samp>
@@ -32,12 +32,12 @@ GRID.GITHUB ............ ://github.com
 
 ---
 
-### 🚀 PROJETO EM DESTAQUE (MAIN_LOG.py)
+### 🚀 PROJETO DESTAQUE (MAIN_LOG.py)
 
 #### 🤖 [Inteligência Artificial e Analytics em Operações de TI (ServiceNow ITSM)](https://://github.com/otimizador-chamados-itil)
-* **O Problema:** Triagem manual lenta e falta de visibilidade sobre gargalos em incidentes hospitalares.
+* **O Problema:** Triagem manual lenta e falta de visibilidade estatística sobre gargalos operacionais.
 * **A Solução:** Processamento analítico e higienização (LGPD compliant) de **59.201 chamados** em Python.
-* **Resultados:** Mapeamento de KPIs (isolando 32.6% de falhas em Desktops) e treinamento de modelo de Machine Learning (*Naive Bayes* via *TF-IDF*) para automação de prioridades com **74.16% de precisão**.
+* **Resultados:** Geração de KPIs de performance (isolando 32.6% de falhas em Desktops) e treinamento de modelo de Machine Learning (*Naive Bayes* via *TF-IDF*) para automação de prioridades com **74.16% de precisão**.
 
 ---
 
