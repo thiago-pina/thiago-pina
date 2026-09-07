@@ -64,11 +64,3 @@
 <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=thiago-pina&layout=compact&langs_count=16&title_color=00FF66&text_color=00FF66&bg_color=0d1117&hide_border=true&border_radius=8" alt="Most Used Languages" height="200px"/>
 
 </div>
-
-<br>
-
-<div align="center">
-
-<img src="./matrix-loading-extended.gif" alt="Matrix system loading animation" width="500"/>
-
-</div>
