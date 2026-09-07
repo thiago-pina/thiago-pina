@@ -35,7 +35,7 @@
 
 <img src="https://cdn.simpleicons.org/python/00FF66" width="34" alt="Python" hspace="12"/>
 &nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/django/00FF66" width="34" alt="Django" hspace="12"/>
+<img src="https://cdn.simpleicons.org/git/00FF66" width="34" alt="Git" hspace="12"/>
 &nbsp;&nbsp;
 <img src="https://cdn.simpleicons.org/html5/00FF66" width="34" alt="HTML5" hspace="12"/>
 &nbsp;&nbsp;
