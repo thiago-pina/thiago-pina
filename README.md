@@ -1,7 +1,10 @@
 <div align="center">
 
-  <!-- TELA PRINCIPAL DO TERMINAL DINÂMICO -->
-  <img src="https://vercel.app" alt="Terminal System Info" width="100%" />
+  <!-- CABEÇALHO ESTILO TERMINAL CYBERPUNK IDÊNTICO -->
+  <img src="https://demolab.com" alt="Typing SVG" />
+
+  <!-- SEGUNDO CARD DINÂMICO DE ATIVIDADE -->
+  <img src="https://vercel.app" alt="Terminal Stats" width="100%" />
 
   <p align="center">
     <samp>
@@ -44,12 +47,8 @@ GRID.GITHUB ............ ://github.com
 ### 📊 METRICS & STATS (REAL-TIME)
 
 <p align="center">
-  <img src="https://vercel.app" alt="Thiago's GitHub Stats" height="180px"/>
   <img src="https://vercel.app" alt="Top Languages" height="180px"/>
-</p>
-
-<p align="center">
-  <img src="https://herokuapp.com" alt="GitHub Streak" />
+  <img src="https://herokuapp.com" alt="GitHub Streak" height="180px" />
 </p>
 
 ---
