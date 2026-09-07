@@ -1,48 +1,61 @@
-# Olá, eu sou o Thiago Pina! 👋
+<div align="center">
+  
+  <!-- CABEÇALHO ESTILO TERMINAL RETRÔ -->
+  <img src="https://vercel.app" alt="Terminal Header" />
 
-### 📊 Sobre Mim
-Analista de TI especializado em transformar grandes volumes de dados operacionais em inteligência estratégica, automação de processos e conformidade de segurança. Atualmente, estou expandindo minha atuação na **Ciência de Dados, Business Intelligence e Inteligência Artificial**.
+  <p align="center">
+    <samp>
+      \$ build / learn / secure / repeat <br>
+      <b>SYSTEM STATUS: ACTIVE 🟢</b>
+    </samp>
+  </p>
 
-* 🎓 Pós-Graduando em **Ciência de Dados e Inteligência Artificial**
-* 🛡️ Pós-Graduado em **Cibersegurança** (UNINTER)
-* 🎓 Tecnólogo em **Análise e Desenvolvimento de Sistemas**
+</div>
 
 ---
 
-### 🛠️ Minhas Ferramentas de Dados (Tech Stack)
+### 🖥️ SYSTEM.INFO
 
-<p align="left">
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
+```text
+SUBJECT ................ Thiago Rodrigues Pina
+ROLE ................... IT Operations Analyst PL
+FOCUS .................. Data Science / AI / Cyber Security
+STATUS ................. Specializing & Building Portfolio
+TOOLCHAIN .............. VS Code / Git / Terminal / Linux
+CORE.LANGUAGES ......... Python / SQL / Shell Script
+CORE.FRAMEWORKS ........ Pandas / NumPy / Scikit-Learn / Seaborn
+CORE.DATABASE .......... MySQL / PostgreSQL
+SECURITY.COMPLIANCE .... LGPD / IAM / Endpoint Protection / Networks
+GRID.LINKEDIN .......... ://linkedin.com
+GRID.GITHUB ............ ://github.com
+```
+
+---
+
+### 🚀 PROJETO EM DESTAQUE (MAIN_LOG.py)
+
+#### 🤖 [Inteligência Artificial e Analytics em Operações de TI (ServiceNow ITSM)](https://://github.com/otimizador-chamados-itil)
+* **O Problema:** Triagem manual lenta e falta de visibilidade sobre gargalos em incidentes hospitalares.
+* **A Solução:** Processamento analítico e higienização (LGPD compliant) de **59.201 chamados** em Python.
+* **Resultados:** Mapeamento de KPIs (isolando 32.6% de falhas em Desktops) e treinamento de modelo de Machine Learning (*Naive Bayes* via *TF-IDF*) para automação de prioridades com **74.16% de precisão**.
+
+---
+
+### 📊 METRICS & STATS (REAL-TIME)
+
+<p align="center">
+  <img src="https://vercel.app" alt="Thiago's GitHub Stats" height="180px"/>
+  <img src="https://vercel.app" alt="Top Languages" height="180px"/>
+</p>
+
+<p align="center">
+  <img src="https://herokuapp.com" alt="GitHub Streak" />
 </p>
 
 ---
 
-### 🚀 Projetos de Portfólio em Destaque
-
-#### 🤖 [Inteligência Artificial e Analytics em Operações de TI (ServiceNow ITSM)](https://github.com)
-* **O Problema:** Triagem manual lenta e falta de visibilidade estatística sobre gargalos em uma grande operação de incidentes hospitalares de TI.
-* **A Solução:** Desenvolvimento de uma aplicação analítica em Python para processamento e tratamento (LGPD compliant) de **59.201 chamados corporativos**.
-* **Resultados:** Geração de indicadores executivos automatizados (revelando que 32.6% dos incidentes envolviam Hardware físico) e treinamento de um modelo preditivo de Machine Learning (Naive Bayes via TF-IDF) para classificação automática de prioridades com **74.16% de precisão**.
-
----
-
-### 📊 Minhas Estatísticas do GitHub (Dinâmico)
-
-<p align="left">
-  <img src="https://vercel.app" alt="Estatísticas do GitHub" height="180px"/>
-  <img src="https://vercel.app" alt="Linguagens mais usadas" height="180px"/>
-</p>
-
----
-
-### 🌐 Vamos nos conectar?
-
-<p align="left">
-  <a href="https://linkedin.com" target="_blank">
-    <img src="https://shields.io" />
-  </a>
-</p>
+<div align="center">
+  <samp>
+    Developed with 🐍 Python, 🧠 Machine Learning and 🛡️ Cybersecurity context.
+  </samp>
+</div>
