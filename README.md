@@ -14,16 +14,12 @@
 <br>
 <br>
 
-<div align=center>
-  <a href="https://www.instagram.com/thiago.pina14/">
-  <img src="https://img.shields.io/badge/Instagram-00FF66?style=for-the-badge&logo" alt="Instagram" hspace="12"/>
-  </a>
-  <a href="https://www.linkedin.com/in/thiagopina-dev/">
-    <img src="https://img.shields.io/badge/LinkedIn-00FF66?style=for-the-badge&logo=linkedin&logoColor=0D1117" alt="LinkedIn" hspace="12"/>
-  </a>
-  <a href="mailto:thiago-pina@outlook.com">
-    <img src="https://img.shields.io/badge/Outlook-00FF66?style=for-the-badge&logo=microsoftoutlook&logoColor=0D1117" alt="Outlook" hspace="12"/>
-  </a>
+<div align="center">
+
+<a href="https://www.instagram.com/thiago.pina14/"><img src="https://img.shields.io/badge/Instagram-00FF66?style=for-the-badge&logo=" width="185" alt="Instagram"></a>&nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/thiagopina-dev/"><img src="https://img.shields.io/badge/LinkedIn-00FF66?style=for-the-badge&logo=" width="165" alt="LinkedIn"></a>&nbsp;&nbsp;&nbsp;
+<a href="mailto:thiago-pina@outlook.com"><img src="https://img.shields.io/badge/Outlook-00FF66?style=for-the-badge&logo=" width="155" alt="Outlook"></a>
+
 </div>
 
 <br>
@@ -33,17 +29,17 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF66&center=true&vCenter=true&width=500&height=48&lines=%3E_+TECH+STACK)](https://git.io/typing-svg)
 
 
-<img src="https://cdn.simpleicons.org/python/00FF66" width="34" alt="Python" hspace="12"/>
+<img src="https://cdn.simpleicons.org/python/00FF66" width="54" alt="Python" hspace="12"/>
 &nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/git/00FF66" width="34" alt="Git" hspace="12"/>
+<img src="https://cdn.simpleicons.org/git/00FF66" width="54" alt="Git" hspace="12"/>
 &nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/html5/00FF66" width="34" alt="HTML5" hspace="12"/>
+<img src="https://cdn.simpleicons.org/html5/00FF66" width="54" alt="HTML5" hspace="12"/>
 &nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/css/00FF66" width="34" alt="CSS3" hspace="12"/>
+<img src="https://cdn.simpleicons.org/css/00FF66" width="54" alt="CSS3" hspace="12"/>
 &nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/javascript/00FF66" width="34" alt="JavaScript" hspace="12"/>
+<img src="https://cdn.simpleicons.org/javascript/00FF66" width="54" alt="JavaScript" hspace="12"/>
 &nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/react/00FF66" width="34" alt="React" hspace="12"/>
+<img src="https://cdn.simpleicons.org/react/00FF66" width="54" alt="React" hspace="12"/>
 
 </div>
 
