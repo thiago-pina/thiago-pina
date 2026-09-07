@@ -1,60 +1,32 @@
+<!-- Cabeçalho estilo Terminal com foto e informações -->
+<table border="0" align="center" width="100%">
+  <tr>
+    <!-- Coluna da Foto (Você pode trocar por um link de GIF se quiser que mude) -->
+    <td align="center" valign="middle" width="40%">
+      <img src="https://github.com" width="250px" style="border-radius: 10px; border: 2px solid #00f0ff;" alt="Sua Foto"/>
+    </td>
+    
+    <!-- Coluna do Texto Animado (Efeito de Digitação) -->
+    <td align="left" valign="middle" width="60%">
+      <img src="https://demolab.com" alt="System Info Animado" />
+    </td>
+  </tr>
+</table>
+
+<br/><br/>
+
+<!-- Seção da Cobrinha (Jogo de Contribuições Animado) -->
 <div align="center">
-
-  <!-- CABEÇALHO ESTILO TERMINAL CYBERPUNK IDÊNTICO -->
-  <img src="https://demolab.com" alt="Typing SVG" />
-
-  <!-- SEGUNDO CARD DINÂMICO DE ATIVIDADE -->
-  <img src="https://vercel.app" alt="Terminal Stats" width="100%" />
-
-  <p align="center">
-    <samp>
-      \$ build / learn / secure / repeat <br>
-      <b>SYSTEM STATUS: ACTIVE 🟢</b>
-    </samp>
-  </p>
-
+  <h2>🤖 My Contribution Snake</h2>
+  <!-- Essa imagem será gerada automaticamente pelo robô no passo 2 -->
+  <img src="https://githubusercontent.com" alt="Jogo da Cobrinha" />
 </div>
 
----
+<br/><br/>
 
-### 🖥️ SYSTEM.INFO
-
-```text
-SUBJECT ................ Thiago Rodrigues Pina
-ROLE ................... IT Operations Analyst PL
-FOCUS .................. Data Science / AI / Cyber Security
-STATUS ................. Specializing & Building Portfolio
-TOOLCHAIN .............. VS Code / Git / Terminal / Linux
-CORE.LANGUAGES ......... Python / SQL / Shell Script
-CORE.FRAMEWORKS ........ Pandas / NumPy / Scikit-Learn / Seaborn
-CORE.DATABASE .......... MySQL / PostgreSQL
-SECURITY.COMPLIANCE .... LGPD / IAM / Endpoint Protection / Networks
-GRID.LINKEDIN .......... ://linkedin.com
-GRID.GITHUB ............ ://github.com
-```
-
----
-
-### 🚀 PROJETO DESTAQUE (MAIN_LOG.py)
-
-#### 🤖 [Inteligência Artificial e Analytics em Operações de TI (ServiceNow ITSM)](https://://github.com/otimizador-chamados-itil)
-* **O Problema:** Triagem manual lenta e falta de visibilidade estatística sobre gargalos operacionais.
-* **A Solução:** Processamento analítico e higienização (LGPD compliant) de **59.201 chamados** em Python.
-* **Resultados:** Geração de KPIs de performance (isolando 32.6% de falhas em Desktops) e treinamento de modelo de Machine Learning (*Naive Bayes* via *TF-IDF*) para automação de prioridades com **74.16% de precisão**.
-
----
-
-### 📊 METRICS & STATS (REAL-TIME)
-
-<p align="center">
-  <img src="https://vercel.app" alt="Top Languages" height="180px"/>
-  <img src="https://herokuapp.com" alt="GitHub Streak" height="180px" />
-</p>
-
----
-
+<!-- Estatísticas e Linguagens no rodapé -->
 <div align="center">
-  <samp>
-    Developed with 🐍 Python, 🧠 Machine Learning and 🛡️ Cybersecurity context.
-  </samp>
+  <h2>📊 GitHub Stats</h2>
+  <img src="https://vercel.app" height="180em" alt="Estatísticas do GitHub" />
+  <img src="https://vercel.app" height="180em" alt="Linguagens Mais Usadas" />
 </div>
